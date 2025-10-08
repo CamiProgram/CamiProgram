@@ -46,10 +46,10 @@ Seguir creciendo como desarrollador **fullstack** y aportar en proyectos que com
 ### 🌐 Conecta conmigo:
 
 <p align="center">
-  <a href="mailto:kaidevop@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaidevop@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/camilo-tapia-267478389/" target="_blank">
+  <a href="https://www.linkedin.com/in/camilo-tapia-267478389" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
