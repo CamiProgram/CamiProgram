@@ -6,13 +6,13 @@ Soy desarrollador fullstack con pasión por construir aplicaciones y proyectos d
 
 ✨ Lo que disfruto:
 
-Crear aplicaciones web y móviles con enfoque en la experiencia del usuario.
+- Crear aplicaciones web y móviles con enfoque en la experiencia del usuario.
 
-Diseñar interfaces limpias y modernas.
+- Diseñar interfaces limpias y modernas.
 
-Participar en proyectos grupales donde se aprende compartiendo.
+- Participar en proyectos grupales donde se aprende compartiendo.
 
-Desarrollar juegos simples con Lua, explorando la lógica y el diseño interactivo.
+- Desarrollar juegos simples con Lua, explorando la lógica y el diseño interactivo.
 
 🧠 Tecnologías y herramientas:
 React · Kotlin · Node.js · Xano · MariaDB · HTML · CSS · JavaScript · Figma · Lua
@@ -20,6 +20,4 @@ React · Kotlin · Node.js · Xano · MariaDB · HTML · CSS · JavaScript · Fi
 📈 Objetivo: seguir creciendo como desarrollador fullstack y aportar en proyectos que combinen creatividad y tecnología.
 
 🌐 Conecta conmigo:
-LinkedIn
- · Portafolio
- · Email
+LinkedIn: www.linkedin.com/in/camilo-tapia-267478389
