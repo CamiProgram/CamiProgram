@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I’m Cami
 
-<!--
-**CamiProgram/CamiProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer | App & Web Creator | Lua Game Dev
 
-Here are some ideas to get you started:
+Soy desarrollador fullstack con pasión por construir aplicaciones y proyectos desde cero. Me encanta participar en equipos donde el trabajo colaborativo impulsa ideas creativas y funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Lo que disfruto:
+
+Crear aplicaciones web y móviles con enfoque en la experiencia del usuario.
+
+Diseñar interfaces limpias y modernas.
+
+Participar en proyectos grupales donde se aprende compartiendo.
+
+Desarrollar juegos simples con Lua, explorando la lógica y el diseño interactivo.
+
+🧠 Tecnologías y herramientas:
+React · Kotlin · Node.js · Xano · MariaDB · HTML · CSS · JavaScript · Figma · Lua
+
+📈 Objetivo: seguir creciendo como desarrollador fullstack y aportar en proyectos que combinen creatividad y tecnología.
+
+🌐 Conecta conmigo:
+LinkedIn
+ · Portafolio
+ · Email
