@@ -1,3 +1,8 @@
+<!-- Banner de perfil -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3fb8e98c-7621-41a6-bb23-464728d75bcc" alt="Banner de Cami" width="100%"/>
+</p>
+
 # 👋 Hi, I’m Cami
 
 💻 **Fullstack Developer | App & Web Creator | Lua Game Dev**
@@ -42,7 +47,7 @@ Seguir creciendo como desarrollador **fullstack** y aportar en proyectos que com
   <a href="mailto:kaidevop@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
-    <img src="www.linkedin.com/in/camilo-tapia-267478389?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/camilo-tapia-267478389/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
