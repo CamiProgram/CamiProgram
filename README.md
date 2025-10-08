@@ -1,6 +1,6 @@
-<!-- Banner de perfil -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3fb8e98c-7621-41a6-bb23-464728d75bcc" alt="Banner de Cami" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/3fb8e98c-7621-41a6-bb23-464728d75bcc" alt="Banner" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;"/>
 </p>
 
 # 👋 Hi, I’m Cami
@@ -27,11 +27,11 @@ Me encanta participar en equipos donde el trabajo colaborativo impulsa ideas cre
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xano-1D3557?style=for-the-badge&logo=xano&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
@@ -53,3 +53,7 @@ Seguir creciendo como desarrollador **fullstack** y aportar en proyectos que com
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+⭐ *Thanks for visiting my profile — let's build something awesome together!* 🚀
