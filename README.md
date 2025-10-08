@@ -20,4 +20,4 @@ React · Kotlin · Node.js · Xano · MariaDB · HTML · CSS · JavaScript · Fi
 📈 Objetivo: seguir creciendo como desarrollador fullstack y aportar en proyectos que combinen creatividad y tecnología.
 
 🌐 Conecta conmigo:
-LinkedIn: www.linkedin.com/in/camilo-tapia-267478389
+Gmail: kaidevop@gmail.com
