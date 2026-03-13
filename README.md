@@ -34,6 +34,7 @@ Me encanta participar en equipos donde el trabajo colaborativo impulsa ideas cre
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white)
 </p>
 
 ---
