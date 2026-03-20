@@ -36,12 +36,10 @@ Desarrollador enfocado en la creación de soluciones escalables y funcionales. E
 
 ### Estadísticas de GitHub
 ![CamiProgram's Stats](https://github-readme-stats.vercel.app/api?username=CamiProgram&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150px"/>
-</p>
 
 ---
 
-### Contacto Profesional
+### Contacto
 
 <p align="left">
   <a href="https://www.linkedin.com/in/camilo-tapia-267478389" target="_blank">
