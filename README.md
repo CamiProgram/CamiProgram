@@ -35,8 +35,7 @@ Desarrollador enfocado en la creación de soluciones escalables y funcionales. E
 ---
 
 ### Estadísticas de GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="150px"/>
+![CamiProgram's Stats](https://github-readme-stats.vercel.app/api?username=CamiProgram&theme=dracula&show_icons=true&hide_border=true&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150px"/>
 </p>
 
