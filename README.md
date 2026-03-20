@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/3fb8e98c-7621-41a6-bb23-464728d75bcc" alt="Banner" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;"/>
 </p>
 
-# 👋 Hola, soy Camilo Tapia
+#  ¡Hola!, soy Camilo Tapia
 
 ### **Fullstack Developer | Mobile App Specialist | Game Dev**
 
@@ -10,7 +10,7 @@ Desarrollador enfocado en la creación de soluciones escalables y funcionales. E
 
 ---
 
-### 🛠️ Perfil Profesional
+### Detalles sobre mi
 - **Desarrollo Mobile:** Creación de aplicaciones robustas en **Kotlin**, implementando arquitecturas **MVVM**, consumo de APIs con **Retrofit** y persistencia local con **Room**.
 - **Fullstack Web:** Construcción de interfaces dinámicas con **React** y gestión de backend/APIs mediante **Node.js** y **Xano**.
 - **Game Development:** Desarrollo de lógica interactiva y sistemas complejos utilizando **Lua** en entornos de alto rendimiento.
@@ -18,7 +18,7 @@ Desarrollador enfocado en la creación de soluciones escalables y funcionales. E
 
 ---
 
-### 🧠 Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -34,7 +34,7 @@ Desarrollador enfocado en la creación de soluciones escalables y funcionales. E
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150px"/>
@@ -42,7 +42,7 @@ Desarrollador enfocado en la creación de soluciones escalables y funcionales. E
 
 ---
 
-### 🌐 Contacto Profesional
+### Contacto Profesional
 
 <p align="left">
   <a href="https://www.linkedin.com/in/camilo-tapia-267478389" target="_blank">
