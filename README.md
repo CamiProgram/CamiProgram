@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user12215.na.imgto.link/public/20260527/personas-creativas-pensando-reuniendose-planificacion-horarios-lluvia-ideas-o-estrategia-equipo-oficina-hombre-mujer-decision-trabajo-equipo-tareas-plan-proyecto-o-ideas-notas-adhesivas-inicio-220770-9063.avif" alt="Planificación y Desarrollo" width="80%"/>
+  <img src="https://user12215.na.imgto.link/public/20260527/captura-de-pantalla-2026-05-26-213120.avif" alt="Banner de Desarrollo" width="100%" style="border-radius: 10px;"/>
 </p>
 
 # Camilo Tapia
