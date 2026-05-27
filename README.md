@@ -1,25 +1,22 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3fb8e98c-7621-41a6-bb23-464728d75bcc" alt="Banner" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;"/>
+<img width="626" height="417" alt="image" src="https://github.com/user-attachments/assets/e35e4a53-4f56-43a8-9d4d-876adcf659d4" /><p align="center">
+  <img src="https://user12215.na.imgto.link/public/20260527/personas-creativas-pensando-reuniendose-planificacion-horarios-lluvia-ideas-o-estrategia-equipo-oficina-hombre-mujer-decision-trabajo-equipo-tareas-plan-proyecto-o-ideas-notas-adhesivas-inicio-220770-9063.avif" alt="Planificación y Desarrollo" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;"/>
 </p>
 
 # Camilo Tapia
 ### Software Developer
 
-Desarrollador de software enfocado en la construcción de soluciones escalables. Experiencia abarcando desde aplicaciones móviles nativas hasta arquitecturas backend basadas en microservicios, priorizando código limpio y buenas prácticas de desarrollo.
+Desarrollador de software enfocado en la construcción de soluciones escalables. Experiencia abarcando desde aplicaciones móviles nativas hasta arquitecturas backend basadas en microservicios, priorizando código limpio y buenas prácticas.
 
 ---
 
-### Áreas de Experiencia
+### 💻 Tecnologías y Áreas de Experiencia
 
-- **Desarrollo Mobile (Android):** Construcción de aplicaciones nativas en **Kotlin**, implementando el patrón **MVVM**, consumo de APIs (Retrofit) y persistencia de datos (Room).
-- **Backend y Microservicios:** Diseño y despliegue de APIs y sistemas robustos utilizando **Spring Boot (Java)** y **Node.js**, integrando bases de datos, autenticación (JWT) y contenedores con **Docker**.
-- **Frontend Web:** Desarrollo de interfaces dinámicas con **React** y **JavaScript**, enfocadas en el rendimiento y la usabilidad.
-- **Game Development:** Creación de lógicas y mecánicas interactivas utilizando **Lua** para entornos multijugador.
-- **Diseño UI/UX:** Prototipado y diseño de interfaces funcionales utilizando **Figma**.
+- **Mobile (Android):** Kotlin, Arquitectura MVVM, Retrofit, Room.
+- **Backend:** Spring Boot (Java), Node.js, Microservicios, Docker, JWT.
+- **Frontend & UI:** React, JavaScript, Figma.
+- **Game Dev:** Lua.
 
----
-
-### Stack Tecnológico
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -36,13 +33,13 @@ Desarrollador de software enfocado en la construcción de soluciones escalables.
 
 ---
 
-### Estadísticas
+### 📊 Estadísticas
 
 ![CamiProgram's Stats](https://github-readme-stats.vercel.app/api?username=CamiProgram&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
-### Contacto
+### 📬 Contacto
 
 <p align="left">
   <a href="https://www.linkedin.com/in/camilo-tapia-267478389" target="_blank">
