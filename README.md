@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e35e4a53-4f56-43a8-9d4d-876adcf659d4" alt="Planificación y Desarrollo" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="TU_NUEVO_ENLACE_AQUI" alt="Planificación y Desarrollo" width="100%"/>
 </p>
 
 # Camilo Tapia
