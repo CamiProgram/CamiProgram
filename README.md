@@ -1,5 +1,5 @@
-<img width="626" height="417" alt="image" src="https://github.com/user-attachments/assets/e35e4a53-4f56-43a8-9d4d-876adcf659d4" /><p align="center">
-  <img src="https://user12215.na.imgto.link/public/20260527/personas-creativas-pensando-reuniendose-planificacion-horarios-lluvia-ideas-o-estrategia-equipo-oficina-hombre-mujer-decision-trabajo-equipo-tareas-plan-proyecto-o-ideas-notas-adhesivas-inicio-220770-9063.avif" alt="Planificación y Desarrollo" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e35e4a53-4f56-43a8-9d4d-876adcf659d4" alt="Planificación y Desarrollo" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;"/>
 </p>
 
 # Camilo Tapia
