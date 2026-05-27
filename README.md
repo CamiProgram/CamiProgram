@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user12215.na.imgto.link/public/20260527/captura-de-pantalla-2026-05-26-213120.avif" alt="Banner de Desarrollo" width="100%" style="border-radius: 10px;"/>
+  <img src="https://user12215.na.imgto.link/public/20260527/captura-de-pantalla-2026-05-26-213120.avif" alt="Banner de Desarrollo" width="100%" style="border-radius: 9px;"/>
 </p>
 
 # Camilo Tapia
@@ -35,7 +35,7 @@ Desarrollador de software enfocado en la construcción de soluciones escalables.
 
 ### 📊 Estadísticas
 
-![CamiProgram's Stats](https://github-readme-stats.vercel.app/api?username=CamiProgram&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![CamiProgram's Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiProgram&theme=tokyonight&show_icons=true&hide_border=true&count_private=true))
 
 ---
 
